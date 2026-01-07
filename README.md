@@ -21,10 +21,10 @@ Junior Full-Stack розробник із фокусом на створення
 
 **Current:**  
 HTML5 • CSS3 • JavaScript (ES6+) • React • Next.js • Node.js  
-REST API • Git & GitHub • Vercel • GitHub Pages
+REST API • Git & GitHub • Vercel • GitHub Pages  
 
 **Learning & Future Growth:**  
-Vue.js • MySQL • React Native
+Vue.js • MySQL • React Native  
 
 ---
 
@@ -32,22 +32,37 @@ Vue.js • MySQL • React Native
 
 ### 🚀 09-auth (Authentication App)  
 🔗 Repository: https://github.com/Nikita-Shulga-tixoWn/09-auth  
-🔗 Live on Vercel: https://vercel.com/slar4iks-projects
+🔗 Live: https://vercel.com/slar4iks-projects  
 
 **EN:**  
-Authentication application built with Node.js and React (or relevant stack), including login and registration functionality.  
-Focused on secure user access and API integration.
+Authentication application with user registration and login functionality.  
+Focused on secure authentication flow, REST API integration, and client-server interaction.
 
 **UA:**  
-Застосунок з автентифікацією (логін/реєстрація), реалізований з використанням Node.js та React (чи відповідного стеку).  
-Фокус на безпечному доступі користувачів та API-інтеграції.
+Застосунок з автентифікацією користувачів (реєстрація та логін).  
+Фокус на безпечному auth-процесі, інтеграції REST API та взаємодії клієнта з сервером.
 
-**Tech:** Node.js • React • REST API • Authentication • Git & GitHub
+**Tech:** Node.js • React • REST API • Authentication • Git & GitHub  
+
+---
+
+### 📌 GoIT JavaScript Homework 12  
+🔗 Repository: https://github.com/Nikita-Shulga-tixoWn/goit-js-hw-12  
+
+**EN:**  
+JavaScript application for working with asynchronous requests and external APIs.  
+Includes data fetching, error handling, dynamic rendering, and user interaction logic.
+
+**UA:**  
+JavaScript-застосунок для роботи з асинхронними запитами та зовнішніми API.  
+Реалізовано отримання даних, обробку помилок, динамічний рендеринг і взаємодію з користувачем.
+
+**Tech:** JavaScript (ES6+) • REST API • Async/Await • Fetch API  
 
 ---
 
 ### 📌 GoIT Markup Homework 05  
-🔗 Repository: https://github.com/Nikita-Shulga-tixoWn/goit-markup-hw-05
+🔗 Repository: https://github.com/Nikita-Shulga-tixoWn/goit-markup-hw-05  
 
 **EN:**  
 Responsive website layout with interactive elements using JavaScript.  
@@ -57,22 +72,7 @@ Focused on adaptive design, modal windows, and form interactions.
 Адаптивна верстка сайту з інтерактивними елементами на JavaScript.  
 Реалізовано модальні вікна, роботу з формами та адаптивність.
 
-**Tech:** HTML5 • CSS3 • JavaScript
-
----
-
-### 📌 GoIT Markup Homework 07  
-🔗 Repository: https://github.com/Nikita-Shulga-tixoWn/goit-markup-hw-07
-
-**EN:**  
-Advanced website layout with enhanced styling and JavaScript logic.  
-Focused on clean structure, scalability, and user experience.
-
-**UA:**  
-Розширена верстка з покращеною стилізацією та JavaScript-логікою.  
-Фокус на структурованості, масштабованості та UX.
-
-**Tech:** HTML5 • CSS3 • JavaScript
+**Tech:** HTML5 • CSS3 • JavaScript  
 
 ---
 
@@ -80,7 +80,7 @@ Focused on clean structure, scalability, and user experience.
 
 - 🇺🇦 Ukrainian — Native  
 - 🇷🇺 Russian — Native  
-- 🇬🇧 English — Basic (actively improving)
+- 🇬🇧 English — Basic (actively improving)  
 
 ---
 
@@ -90,11 +90,13 @@ Focused on clean structure, scalability, and user experience.
 📧 Email: nikitashulga1996@gmail.com  
 💬 Telegram: https://t.me/tixoWn  
 🔗 LinkedIn: https://www.linkedin.com/in/никита-шульга-7033ab217/  
-🔗 Vercel Profile: https://vercel.com/slar4iks-projects
+🔗 Vercel: https://vercel.com/slar4iks-projects  
 
 ---
 
-## 📊 GitHub Stats
+⭐ Open to collaboration, learning, and new challenges  
+⭐ Відкритий до співпраці, розвитку та нових можливостей
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikita-Shulga-tixoWn&show_icons=true&theme=default)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikita-Shulga-tixoWn&layout=compact)
