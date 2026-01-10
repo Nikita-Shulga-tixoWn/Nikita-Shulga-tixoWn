@@ -98,8 +98,9 @@ Focused on adaptive design, modal windows, and form interactions.
 ⭐ Відкритий до співпраці, розвитку та нових можливостей
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikita-Shulga-tixoWn&show_icons=true&theme=default)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikita-Shulga-tixoWn&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikita-Shulga-tixoWn&layout=compact)
+
 
 ---
 
