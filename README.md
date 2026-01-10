@@ -98,9 +98,3 @@ Focused on adaptive design, modal windows, and form interactions.
 ⭐ Відкритий до співпраці, розвитку та нових можливостей
 
 
-## 📊 GitHub Statistics
-[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nikita-Shulga-tixoWn)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nikita-Shulga-tixoWn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
