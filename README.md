@@ -100,7 +100,7 @@ Focused on adaptive design, modal windows, and form interactions.
 
 ## 📊 GitHub Statistics
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikita-Shulga-tixoWn&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikita-Shulga-tixoWn&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikita-Shulga-tixoWn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikita-Shulga-tixoWn&layout=compact)
 
