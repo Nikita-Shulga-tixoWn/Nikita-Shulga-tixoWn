@@ -100,7 +100,7 @@ Focused on adaptive design, modal windows, and form interactions.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikita-Shulga-tixoWn)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikita-Shulga-tixoWn)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikita-Shulga-tixoWn)
 
 
 
