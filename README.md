@@ -3,98 +3,192 @@
 
 ---
 
-## 💼 About Me | Про мене
+## 💼 About Me | Про мене  
 
 **EN:**  
-Junior Full-Stack Developer with a strong focus on building modern, responsive web applications.  
-I have experience working both individually and in team-based projects using HTML, CSS, JavaScript, React, Next.js, and Node.js.  
-Currently expanding my skills in Vue.js, MySQL, and React Native, with a strong commitment to continuous learning and professional growth.
+Junior Full-Stack Developer with hands-on experience in building real-world web applications using modern technologies.  
+
+I specialize in **React and Next.js (App Router)** on the frontend and **Node.js (Express)** on the backend.  
+Have practical experience developing **REST APIs, authentication systems, validation layers, and file upload functionality**.  
+
+Worked on both **individual and team projects**, including a full-stack travel platform with separate frontend and backend architecture.  
+
+Focused on writing **clean, maintainable code** and building scalable application structure.  
+
+---
 
 **UA:**  
-Junior Full-Stack розробник із фокусом на створення сучасних, адаптивних веб-застосунків.  
-Маю досвід індивідуальної та командної роботи з HTML, CSS, JavaScript, React, Next.js та Node.js.  
-Активно розвиваю навички у Vue.js, MySQL та React Native, орієнтований на постійне навчання та професійне вдосконалення.
+Junior Full-Stack розробник із практичним досвідом створення реальних веб-застосунків.  
+
+Спеціалізуюсь на **React та Next.js (App Router)** на фронтенді і **Node.js (Express)** на бекенді.  
+Маю досвід розробки **REST API, систем автентифікації, валідації та завантаження файлів**.  
+
+Працював як над індивідуальними, так і над **командними full-stack проєктами** (travel platform з розділенням frontend/backend).  
+
+Орієнтований на **чистий код, масштабовану архітектуру та best practices**.  
 
 ---
 
-## 🧰 Tech Stack | Технології
+## 🧰 Tech Stack  
 
-**Current:**  
-HTML5 • CSS3 • JavaScript (ES6+) • React • Next.js • Node.js  
-REST API • Git & GitHub • Vercel • GitHub Pages  
+### 🔹 Frontend
+- React  
+- Next.js (App Router)  
+- TypeScript  
+- JavaScript (ES6+)  
+- HTML5 / CSS3 / CSS Modules  
 
-**Learning & Future Growth:**  
-Vue.js • MySQL • React Native  
+### 🔹 Backend
+- Node.js  
+- Express  
+- REST API  
+- Joi / Celebrate (validation)  
+- Multer (file uploads)  
+
+### 🔹 State & Data
+- Redux  
+- React Query  
+- Axios  
+
+### 🔹 Tools
+- Git (rebase, PR workflow)  
+- GitHub  
+- Vercel  
+- Postman  
 
 ---
 
-## 💻 Featured Projects | Навчальні проєкти
+## 🚀 Key Projects  
 
-### 🚀 09-auth (Authentication App)  
-🔗 Repository: https://github.com/Nikita-Shulga-tixoWn/09-auth  
-🔗 Live: https://vercel.com/slar4iks-projects  
+---
+
+### 🧳 Travelers (Team Full-Stack Project)
+
+🔗 Frontend:  
+https://github.com/hog-seruj/travelers  
+
+🔗 Backend API:  
+https://github.com/hog-seruj/travelers-api  
 
 **EN:**  
-Authentication application with user registration and login functionality.  
-Focused on secure authentication flow, REST API integration, and client-server interaction.
+Full-stack travel platform developed in a team environment.  
+Frontend and backend are separated into independent services.  
+
+Key features:
+- REST API architecture  
+- Client-server interaction  
+- Data fetching and filtering  
+- Modular project structure  
+- Team collaboration via Git (branches, PRs)  
 
 **UA:**  
-Застосунок з автентифікацією користувачів (реєстрація та логін).  
-Фокус на безпечному auth-процесі, інтеграції REST API та взаємодії клієнта з сервером.
+Командний full-stack проєкт — travel-платформа.  
+Frontend і backend реалізовані як окремі сервіси.  
 
-**Tech:** Node.js • React • REST API • Authentication • Git & GitHub  
+Основний функціонал:
+- REST API архітектура  
+- Взаємодія клієнта з сервером  
+- Отримання та фільтрація даних  
+- Модульна структура проєкту  
+- Командна робота через Git  
+
+**Tech:**  
+Next.js • React • Node.js • Express • REST API  
 
 ---
 
-### 📌 GoIT JavaScript Homework 12  
-🔗 Repository: https://github.com/Nikita-Shulga-tixoWn/goit-js-hw-12  
+### 🔐 Authentication App  
+
+🔗 Repository:  
+https://github.com/Nikita-Shulga-tixoWn/09-auth  
 
 **EN:**  
-JavaScript application for working with asynchronous requests and external APIs.  
-Includes data fetching, error handling, dynamic rendering, and user interaction logic.
+Authentication system with registration and login functionality.  
+
+Key features:
+- Secure authentication flow  
+- API integration  
+- Form handling and validation  
+- Client-server communication  
 
 **UA:**  
-JavaScript-застосунок для роботи з асинхронними запитами та зовнішніми API.  
-Реалізовано отримання даних, обробку помилок, динамічний рендеринг і взаємодію з користувачем.
+Застосунок з автентифікацією (реєстрація та логін).  
 
-**Tech:** JavaScript (ES6+) • REST API • Async/Await • Fetch API  
+Основний функціонал:
+- Безпечний auth-процес  
+- Інтеграція з API  
+- Валідація форм  
+- Взаємодія клієнта з сервером  
+
+**Tech:**  
+React • Node.js • Express • REST API  
 
 ---
 
-### 📌 GoIT Markup Homework 05  
-🔗 Repository: https://github.com/Nikita-Shulga-tixoWn/goit-markup-hw-05  
+### 📌 JavaScript API Project  
+
+🔗 Repository:  
+https://github.com/Nikita-Shulga-tixoWn/goit-js-hw-12  
 
 **EN:**  
-Responsive website layout with interactive elements using JavaScript.  
-Focused on adaptive design, modal windows, and form interactions.
+Application for working with external APIs and asynchronous operations.  
 
 **UA:**  
-Адаптивна верстка сайту з інтерактивними елементами на JavaScript.  
-Реалізовано модальні вікна, роботу з формами та адаптивність.
+Застосунок для роботи з API та асинхронними запитами.  
 
-**Tech:** HTML5 • CSS3 • JavaScript  
+**Tech:**  
+JavaScript • Fetch API • Async/Await  
 
 ---
 
-## 🗣️ Languages | Мови
+### 📌 Responsive Layout Project  
+
+🔗 Repository:  
+https://github.com/Nikita-Shulga-tixoWn/goit-markup-hw-05  
+
+**EN:**  
+Responsive website layout with interactive UI elements.  
+
+**UA:**  
+Адаптивна верстка з інтерактивними елементами.  
+
+**Tech:**  
+HTML • CSS • JavaScript  
+
+---
+
+## 📚 Currently Learning  
+
+- Vue.js  
+- MySQL  
+- React Native  
+- Backend architecture & scalability  
+
+---
+
+## 🗣️ Languages  
 
 - 🇺🇦 Ukrainian — Native  
 - 🇷🇺 Russian — Native  
-- 🇬🇧 English — Basic (actively improving)  
+- 🇬🇧 English — Basic (improving daily)  
 
 ---
 
-## 📫 Contacts | Контакти
+## 📫 Contacts  
 
-📞 Phone: +380 97 363 68 99  
 📧 Email: nikitashulga1996@gmail.com  
+📞 Phone: +380 97 363 68 99  
+
 💬 Telegram: https://t.me/tixoWn  
-🔗 LinkedIn: https://www.linkedin.com/in/никита-шульга-7033ab217/  
-🔗 Vercel: https://vercel.com/slar4iks-projects  
+
+🔗 LinkedIn:  
+https://www.linkedin.com/in/никита-шульга-7033ab217/  
 
 ---
 
-⭐ Open to collaboration, learning, and new challenges  
-⭐ Відкритий до співпраці, розвитку та нових можливостей
+## ⭐ Open to Work  
+
+Actively looking for **Junior Frontend / Full-Stack Developer** position.  
+Open to remote opportunities, freelance, and team collaboration.
 
 
